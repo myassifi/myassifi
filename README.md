@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**myassifi/myassifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm MOHCINE! 👋 👨🏼‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo](https://iili.io/HCmJZ79.png)
+
+
+I am a Passionate and Curious Data Analyst Who likes To Learn And Grow with experience in EXCEL, PostgreSQL, and Tableau.
+Switching from a Mechanical field to a Data Analytics field was a big Achievement that enabled me to practice and refine hard skills, such as Data Collection and Analysis; and also soft skills, such as communication, critical thinking, and building relationships.
+
+
+SKILLS:
+
+- 👨🏼‍💻 EXCEL 
+- ➡️  SQL(postgreeSQL)
+- 💻  Tableau
+
+
+ 💬 To know me More. [Here](https://www.linkedin.com/in/mohcineyassifi/)
+ 💻 My projects. [Here](https://github.com/myassifi?tab=repositories)
