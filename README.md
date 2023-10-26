@@ -5,7 +5,7 @@
 ![Logo](https://iili.io/HCmJZ79.png)
 
 
-I am a Passionate and Curious Data Analyst Who likes To Learn And Grow with experience in EXCEL, PostgreSQL, and Tableau.
+I am a Passionate and Curious Data Analyst Who likes To Learn And Grow with experience in EXCEL, PostgreSQL, and Power BI.
 Switching from a Mechanical field to a Data Analytics field was a big Achievement that enabled me to practice and refine hard skills, such as Data Collection and Analysis; and also soft skills, such as communication, critical thinking, and building relationships.
 
 
