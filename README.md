@@ -13,7 +13,7 @@ SKILLS:
 
 - 👨🏼‍💻 EXCEL 
 - ➡️  SQL(postgreeSQL)
-- 💻  POWER BI
+- 💻  POWER BI (Projects)(https://www.novypro.com/profile_projects/moyassifi)
 
  💬 To know me More. [Here](https://www.linkedin.com/in/mohcineyassifi/)
  💻 My projects. [Here](https://github.com/myassifi?tab=repositories)
